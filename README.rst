@@ -2,8 +2,8 @@ Rate Limited Queue
 ==================
 
 .. image:: https://readthedocs.org/projects/rate-limited-queue/badge/?version=latest
-:target: https://readthedocs.org/projects/rate-limited-queue/?badge=latest
-:alt: Documentation Status
+    :target: https://readthedocs.org/projects/rate-limited-queue/?badge=latest
+    :alt: Documentation Status
 
 A Queue That Respects Rate Limits.
 
