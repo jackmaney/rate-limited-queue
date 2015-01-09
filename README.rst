@@ -33,10 +33,10 @@ Check out `the docs <https://http://rate-limited-queue.readthedocs.org/en/latest
 Installation
 ------------
 
-It's up [on PyPI](https://pypi.python.org/pypi/rate_limited_queue), so just do a
+It's up `on PyPI <https://pypi.python.org/pypi/rate_limited_queue>`_, so just do a::
 
->>> pip install rate_limited_queue
+    pip install rate_limited_queue
 
-or
+or::
 
->>> sudo pip install rate_limited_queue
+    sudo pip install rate_limited_queue
