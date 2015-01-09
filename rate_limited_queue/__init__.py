@@ -27,5 +27,7 @@ geocoding api via `geopy <https://github.com/geopy/geopy>`_.
     geocoded_locations = q.process()
 """
 
+from _version import __version__
+
 from queue import RateLimitedQueue
 from rate_limit import RateLimit
