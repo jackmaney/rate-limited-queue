@@ -28,7 +28,7 @@ geocoding api via `geopy <https://github.com/geopy/geopy>`_.
     # more than ten per second
     geocoded_locations = q.process()
 
-Check out `the docs <https://http://rate-limited-queue.readthedocs.org/en/latest/>`_ for more information.
+Check out `the docs <http://rate-limited-queue.readthedocs.org/en/latest/>`_ for more information.
 
 Installation
 ------------
