@@ -3,8 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Rate Limited Queue's documentation!
-==============================================
+A Rate Limited Queue
+====================
+
+.. raw:: html
+
+    <iframe src="http://ghbtns.com/github-btn.html?user=jackmaney&repo=rate-limited-queue&type=watch&count=true"
+  allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
 
 .. automodule:: rate_limited_queue
 
