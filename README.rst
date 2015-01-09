@@ -1,6 +1,10 @@
 Rate Limited Queue
 ==================
 
+.. image:: https://readthedocs.org/projects/rate-limited-queue/badge/?version=latest
+:target: https://readthedocs.org/projects/rate-limited-queue/?badge=latest
+:alt: Documentation Status
+
 A Queue That Respects Rate Limits.
 
 The original prototype for this code was written to rate-limit calls to a
@@ -27,8 +31,6 @@ geocoding api via `geopy <https://github.com/geopy/geopy>`_.
     # Grabs the geocoded locations, but doesn't process
     # more than ten per second
     geocoded_locations = q.process()
-
-Check out `the docs <http://rate-limited-queue.readthedocs.org/en/latest/>`_ for more information.
 
 Installation
 ------------
