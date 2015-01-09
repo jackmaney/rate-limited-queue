@@ -6,6 +6,8 @@
 Welcome to Rate Limited Queue's documentation!
 ==============================================
 
+.. automodule:: rate_limited_queue
+
 Contents:
 
 .. toctree::

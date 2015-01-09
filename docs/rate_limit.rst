@@ -1,9 +1,8 @@
 Rate Limits
 ===========
 
-.. automodule:: rate_limit
-    :members:
+.. module:: rate_limited_queue
 
-.. autoclass:: RateLimit
+.. autoclass:: rate_limited_queue.RateLimit
     :members:
     :member-order: bysource

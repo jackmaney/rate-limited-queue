@@ -1,8 +1,8 @@
 The Rate-Limited Queue
 ======================
 
-.. automodule:: rate_limited_queue
+.. module:: rate_limited_queue
 
-.. autoclass:: RateLimitedQueue
+.. autoclass:: rate_limited_queue.RateLimitedQueue
     :members:
     :member-order: bysource
