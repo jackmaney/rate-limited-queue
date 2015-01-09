@@ -5,3 +5,7 @@ python:
     - "3.2"
     - "3.3"
     - "3.4"
+script:
+    - echo "script goes here"
+install:
+    -echo "This is the install part...no dependencies, though..."
