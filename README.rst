@@ -29,3 +29,14 @@ geocoding api via `geopy <https://github.com/geopy/geopy>`_.
     geocoded_locations = q.process()
 
 Check out `the docs <https://http://rate-limited-queue.readthedocs.org/en/latest/>`_ for more information.
+
+Installation
+------------
+
+It's up [on PyPI](https://pypi.python.org/pypi/rate_limited_queue), so just do a
+
+>>> pip install rate_limited_queue
+
+or
+
+>>> sudo pip install rate_limited_queue
